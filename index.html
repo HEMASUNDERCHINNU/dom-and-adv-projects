@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom+Adj Project</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="nav">
+            <div class="hamburger">
+                <i class="fas fa-bars"></i>
+            </div>
+
+
+            <div class="logo">Exclusive</div>
+
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#" id="signup-btn">Sign Up</a></li>
+        </ul>
+
+        <div class="search-container">
+            <input type="text" placeholder="What are you looking for?" class="search-box">
+            <i class="fas fa-search search-icon"></i>
+        </div>
+
+        <div class="icon">
+            <i class="far fa-heart"></i>
+            <i class="fas fa-shopping-cart"></i>
+        </div>
+    </nav>
+
+    <div class="form-container" id="form-container">
+        <div class="form-box">
+            <h2>Sign Up</h2>
+            <input type="text" id="name" placeholder="Enter your name">
+            <input type="email" id="email" placeholder="Enter your email">
+            <input type="password" id="password" placeholder="Enter your password">
+            <input type="tel" id="phone" placeholder="Enter your phone number">
+            <button id="submit-btn">Submit</button>
+        </div>
+    </div>
+
+
+    <div id="success-message" class="success-message"></div>
+
+    <div id="user-details" class="user-details"></div>
+
+        <div class="container">
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <ul>
+                    <li id="womens-fashion">Women’s Fashion <i class="fas fa-angle-right"></i></li>
+                    <li id ="mens-fashion">Men’s Fashion <i class="fas fa-angle-right"></i></li>
+                    <li id="Electronics">Electronics</li>
+                    <li>Home & Lifestyle</li>
+                    <li>Medicine</li>
+                    <li>Sports & Outdoor</li>
+                    <li>Baby’s & Toys</li>
+                    <li>Groceries & Pets</li>
+                    <li>Health & Beauty</li>
+                </ul>
+            </div>
+
+            <!-- Slider Section -->
+            <div class="slider-container1">
+                <div class="banner">
+                    <img src="./assets/Frame 560.png" alt="iPhone 14">
+                    <img src="./assets/Apple-iPhone-5G-Update.jpg" alt="iPhone 16">
+                    <img src="./assets/iphone.jpg" alt="iPhone 15">
+                    <img src="./assets/iPhone-13-Pro.jpg" alt="iPhone 13">
+                    <img src="./assets/phone.png" alt="iPhone">
+                </div>
+            </div>
+        </div>
+        
+    
+
+<div class="slider-container">
+    <div class="slider">
+        <div class="product-container" id="productContainer"></div>
+    </div>
+    <div class="button">
+        <button class="btn">View Products</button>
+    </div>
+</div>
+
+<div class="categories-container">
+    <div class="arrow-container">
+        <button id="leftArrow" class="arrow-btn">⬅</button>
+        <button id="rightArrow" class="arrow-btn">➡</button>
+    </div>
+    <div class="categories-wrapper" id="categoryContainer"></div>
+</div>
+
+<h2>Best Selling Products</h2>
+<div class="product-container1" id="productContainer1"></div>
+<button class="load-more" id="loadMoreBtn">Load More</button>
+
+  <!-- Main Content Section -->
+  <div class="container1">
+    <div class="text-section">
+        <h3>Categories</h3>
+        <h1>Enhance Your Music Experience</h1>
+        <div class="timer">
+            <div><span id="days">05</span>Days</div>
+            <div><span id="hours">23</span>Hours</div>
+            <div><span id="minutes">59</span>Minutes</div>
+            <div><span id="seconds">35</span>Seconds</div>
+        </div>
+        <button class="buy-btn" id="buyNowBtn">Buy Now!</button>
+    </div>
+    <div class="image-section">
+        <img src="./assets/JBL_BOOMBOX_2_HERO_020_x1 (1) 1.png" alt="Speaker">
+    </div>
+</div>
+
+<!-- Background Overlay -->
+<div id="overlay" class="overlay"></div>
+
+<!-- First Popup: Enter Product Details -->
+<div id="popup1" class="popup">
+    <h2>Enter Product Details</h2>
+    <input type="text" id="productName" placeholder="Product Name"><br>
+    <input type="number" id="productPrice" placeholder="Price"><br>
+    <button class="confirm-btn" id="buyBtn">Buy</button>
+    <button class="close-btn" onclick="closePopup('popup1')">Close</button>
+</div>
+
+<!-- Second Popup: Purchase Confirmation -->
+<div id="popup2" class="popup">
+    <h2 id="successMessage"></h2>
+    <button class="close-btn" onclick="closePopup('popup2')">Close</button>
+</div>
+
+
+<div class="container2" id="product-list"></div>
+
+    <div class="modal" id="product-modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <img id="modal-img" src="" alt="">
+            <div class="product-name" id="modal-name"></div>
+            <div class="product-price" id="modal-price"></div>
+        </div>
+    </div>
+
+    <h1>Image Gallery</h1> 
+    <div class="gallery" id="gallery"></div>
+
+    <!-- Fullscreen Image View -->
+    <div class="fullscreen" id="fullscreen">
+        <span class="close1" onclick="closeFullscreen()">&times;</span>
+        <img id="fullscreenImg" src="" alt="">
+    </div>
+
+    <!-- <h2>Our Services</h2> -->
+    <div id="services"></div>
+
+    <div id="footer" class="footer-container"></div>
+
+    <script src="app.js"></script>
+</body>
+
+</html
