@@ -11,13 +11,13 @@
     padding: 10px;
     border-radius: 8px;
     text-align: center;
-    width: 500px;  /* Fixed width */
+    width: 300px;  /* Fixed width */
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .fashion-img {
-    width: 400px;  /* Set fixed width */
-    /* height: 500px; */
+    width: 250px;  /* Set fixed width */
+    height: 400px;
     object-fit: cover; /* Ensures images scale correctly */
     border-radius: 5px;
 }
