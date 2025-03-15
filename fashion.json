@@ -1,109 +1,109 @@
 {
     "images":[
             {
-                "image":"/assets1/image1.jpg",
+                "image":"assets1/image1.jpg",
                 "title":"women's fashion",
                 "price":"9,999"
             },
         
             {
-                "image":"/assets1/image2.jpg",
+                "image":"assets1/image2.jpg",
                 "title":"women's fashion",
                 "price":"10,999"
             },
         
             {
-                "image":"/assets1/image3.jpg",
+                "image":"assets1/image3.jpg",
                 "title":"women's fashion",
                 "price":"11,999"
             },
         
             {
-                "image":"/assets1/image4.jpg",
+                "image":"assets1/image4.jpg",
                 "title":"women's fashion",
                 "price":"8,999"
             },
         
             {
-                "image":"/assets1/image5.jpg",
+                "image":"assets1/image5.jpg",
                 "title":"women's fashion",
                 "price":"12,999"
             },
         
             {
-                "image":"/assets1/image6.jpg",
+                "image":"assets1/image6.jpg",
                 "title":"women's fashion",
                 "price":"5,999"
             },
 
             {
-                "image":"/assets1/image7.jpg",
+                "image":"assets1/image7.jpg",
                 "title":"women's fashion",
                 "price":"2,999"
             },
 
             {
-                "image":"/assets1/image8.jpg",
+                "image":"assets1/image8.jpg",
                 "title":"women's fashion",
                 "price":"21,999"
             },
 
             {
-                "image":"/assets1/image9.jpg",
+                "image":"assets1/image9.jpg",
                 "title":"women's fashion",
                 "price":"20,999"
             },
 
             {
-                "image":"/assets1/image10.jpg",
+                "image":"assets1/image10.jpg",
                 "title":"women's fashion",
                 "price":"19,999"
             },
 
             {
-                "image":"/assets1/image11.jpg",
+                "image":"assets1/image11.jpg",
                 "title":"women's fashion",
                 "price":"18,999"
             },
 
             {
-                "image":"/assets1/image12.jpg",
+                "image":"assets1/image12.jpg",
                 "title":"women's fashion",
                 "price":"17,999"
             },
 
             {
-                "image":"/assets1/image13.jpg",
+                "image":"assets1/image13.jpg",
                 "title":"women's fashion",
                 "price":"16,999"
             },
 
             {
-                "image":"/assets1/image14.jpg",
+                "image":"assets1/image14.jpg",
                 "title":"women's fashion",
                 "price":"15,999"
             },
 
             {
-                "image":"/assets1/image15.jpg",
+                "image":"assets1/image15.jpg",
                 "title":"women's fashion",
                 "price":"14,999"
             },
 
             {
-                "image":"/assets1/image16.jpg",
+                "image":"assets1/image16.jpg",
                 "title":"women's fashion",
                 "price":"6,999"
             },
         
             {
-                "image":"/assets1/image17.jpg",
+                "image":"assets1/image17.jpg",
                 "title":"women's fashion",
                 "price":"13,999"
             },
 
             {
-                "image":"/assets1/image18.jpg",
+                "image":"assets1/image18.jpg",
                 "title":"women's fashion",
                 "price":"3,999"
             }
@@ -113,109 +113,109 @@
 
     "images1":[
         {
-            "image":"/assets1/image19.jpg",
+            "image":"assets1/image19.jpg",
             "title":"men's fashion",
             "price":"9,999"
         },
     
         {
-            "image":"/assets1/image20.jpg",
+            "image":"assets1/image20.jpg",
             "title":"men's fashion",
             "price":"10,999"
         },
     
         {
-            "image":"/assets1/image21.jpg",
+            "image":"assets1/image21.jpg",
             "title":"men's fashion",
             "price":"11,999"
         },
     
         {
-            "image":"/assets1/image22.jpg",
+            "image":"assets1/image22.jpg",
             "title":"men's fashion",
             "price":"8,999"
         },
     
         {
-            "image":"/assets1/image23.jpg",
+            "image":"assets1/image23.jpg",
             "title":"men's fashion",
             "price":"12,999"
         },
     
         {
-            "image":"/assets1/image24.jpg",
+            "image":"assets1/image24.jpg",
             "title":"men's fashion",
             "price":"5,999"
         },
 
         {
-            "image":"/assets1/image25.jpg",
+            "image":"assets1/image25.jpg",
             "title":"men's fashion",
             "price":"2,999"
         },
 
         {
-            "image":"/assets1/image26.jpg",
+            "image":"assets1/image26.jpg",
             "title":"men's fashion",
             "price":"21,999"
         },
 
         {
-            "image":"/assets1/image27.jpg",
+            "image":"assets1/image27.jpg",
             "title":"men's fashion",
             "price":"20,999"
         },
 
         {
-            "image":"/assets1/image28.jpg",
+            "image":"assets1/image28.jpg",
             "title":"men's fashion",
             "price":"19,999"
         },
 
         {
-            "image":"/assets1/image29.jpg",
+            "image":"assets1/image29.jpg",
             "title":"men's fashion",
             "price":"18,999"
         },
 
         {
-            "image":"/assets1/image30.jpg",
+            "image":"assets1/image30.jpg",
             "title":"men's fashion",
             "price":"17,999"
         },
 
         {
-            "image":"/assets1/image31.jpg",
+            "image":"assets1/image31.jpg",
             "title":"men's fashion",
             "price":"16,999"
         },
 
         {
-            "image":"/assets1/image32.jpg",
+            "image":"assets1/image32.jpg",
             "title":"men's fashion",
             "price":"15,999"
         },
 
         {
-            "image":"/assets1/image33.jpg",
+            "image":"assets1/image33.jpg",
             "title":"men's fashion",
             "price":"14,999"
         },
 
         {
-            "image":"/assets1/image34.jpg",
+            "image":"assets1/image34.jpg",
             "title":"men's fashion",
             "price":"6,999"
         },
     
         {
-            "image":"/assets1/image35.jpg",
+            "image":"assets1/image35.jpg",
             "title":"men's fashion",
             "price":"13,999"
         },
 
         {
-            "image":"/assets1/image36.jpg",
+            "image":"assets1/image36.jpg",
             "title":"men's fashion",
             "price":"3,999"
         }
@@ -224,109 +224,109 @@
 
     "images2":[
         {
-            "image":"/assets1/image37.jpg",
+            "image":"assets1/image37.jpg",
             "title":"Electronics",
             "price":"9,999"
         },
     
         {
-            "image":"/assets1/image38.jpg",
+            "image":"assets1/image38.jpg",
             "title":"Electronics",
             "price":"10,999"
         },
     
         {
-            "image":"/assets1/image39.jpg",
+            "image":"assets1/image39.jpg",
             "title":"Electronics",
             "price":"11,999"
         },
     
         {
-            "image":"/assets1/image40.jpg",
+            "image":"assets1/image40.jpg",
             "title":"Electronics",
             "price":"8,999"
         },
     
         {
-            "image":"/assets1/image41.jpg",
+            "image":"assets1/image41.jpg",
             "title":"Electronics",
             "price":"12,999"
         },
     
         {
-            "image":"/assets1/image42.jpg",
+            "image":"assets1/image42.jpg",
             "title":"Electronics",
             "price":"5,999"
         },
 
         {
-            "image":"/assets1/image43.jpg",
+            "image":"assets1/image43.jpg",
             "title":"Electronics",
             "price":"2,999"
         },
 
         {
-            "image":"/assets1/image44.jpg",
+            "image":"assets1/image44.jpg",
             "title":"Electronics",
             "price":"21,999"
         },
 
         {
-            "image":"/assets1/image45.jpg",
+            "image":"assets1/image45.jpg",
             "title":"Electronics",
             "price":"20,999"
         },
 
         {
-            "image":"/assets1/image46.jpg",
+            "image":"assets1/image46.jpg",
             "title":"Electronics",
             "price":"19,999"
         },
 
         {
-            "image":"/assets1/image47.jpg",
+            "image":"assets1/image47.jpg",
             "title":"Electronics",
             "price":"18,999"
         },
 
         {
-            "image":"/assets1/image48.jpg",
+            "image":"assets1/image48.jpg",
             "title":"Electronics",
             "price":"17,999"
         },
 
         {
-            "image":"/assets1/image49.jpg",
+            "image":"assets1/image49.jpg",
             "title":"Electronics",
             "price":"16,999"
         },
 
         {
-            "image":"/assets1/image50.jpg",
+            "image":"assets1/image50.jpg",
             "title":"Electronics",
             "price":"15,999"
         },
 
         {
-            "image":"/assets1/image51.jpg",
+            "image":"assets1/image51.jpg",
             "title":"Electronics",
             "price":"14,999"
         },
 
         {
-            "image":"/assets1/image52.jpg",
+            "image":"assets1/image52.jpg",
             "title":"Electronics",
             "price":"6,999"
         },
     
         {
-            "image":"/assets1/image53.jpg",
+            "image":"assets1/image53.jpg",
             "title":"Electronics",
             "price":"13,999"
         },
 
         {
-            "image":"/assets1/image54.jpg",
+            "image":"assets1/image54.jpg",
             "title":"Electronics",
             "price":"3,999"
         }
