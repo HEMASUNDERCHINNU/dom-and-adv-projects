@@ -1,28 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+}
+
 .fashion-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 20px;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
 }
 
-.fashion-item {
-    border: 1px solid #ddd;
-    padding: 10px;
-    border-radius: 8px;
-    text-align: center;
-    width: 300px;  /* Fixed width */
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+.fashion-card {
+  background-color: #ffffff;
+  /* border-radius: 10px; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s;
+  text-align: center;
+  padding: 10px;
+  width: auto;
+  /* flex: 0 0 auto; */
 }
 
-.fashion-img {
-    width: 250px;  /* Set fixed width */
-    height: 400px;
-    object-fit: cover; /* Ensures images scale correctly */
-    border-radius: 5px;
+.fashion-card:hover {
+  transform: translateY(-5px);
 }
 
-.fashion-title, .fashion-price {
-    font-size: 14px;
-    margin: 5px 0;
+.fashion-card img {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+  /* border-radius: 8px; */
+}
+
+.fashion-card h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+  color: #333;
+}
+
+.fashion-card p {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #666;
 }
